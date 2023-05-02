@@ -1,0 +1,41 @@
+.heightInputField{
+    width: 2.5rem;
+    
+}
+.weightInputField{
+    width: 4.2rem;
+}
+body{
+   border: 2px solid rgb(12, 104, 146);
+   margin-left: 300px;
+   margin-right: 300px;
+    background-color:azure;
+    border-radius: 18px;
+}
+
+
+    
+
+ 
+    
+
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+form{
+    color: rgb(180, 23, 23);
+    font-family:'Times New Roman', Times, serif;
+    font-size:larger;
+    font-weight: 700;
+}
+#title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+color: dimgray;
+}
+#suggestion{
+    color: dimgray;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:large;
+}
